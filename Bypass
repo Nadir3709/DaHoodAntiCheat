@@ -1,0 +1,7 @@
+local PlaceId = game.PlaceId
+
+if PlaceId == 2788229376 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/DaHoodAntiCheat/main/AntiCheatBypass"))()
+else
+    print("Game Not Support!")
+end
