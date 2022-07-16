@@ -4,7 +4,7 @@ local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local tablefind = table.find
 local MainEvent = ReplicatedStorage.MainEvent
 local SpoofTable = {
-	WalkSpeed = 16,
+	WalkSpeed = 20,
 	JumpPower = 50
 }
 
